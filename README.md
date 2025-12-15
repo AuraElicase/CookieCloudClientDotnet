@@ -1,0 +1,2 @@
+# CookieCloudClientDotnet
+用于连接CookieCloud下载Cookie和Localstorage内容的dotnet库
